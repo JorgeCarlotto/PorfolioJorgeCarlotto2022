@@ -53,7 +53,7 @@ export default function Profile() {
                    /> 
                 </h1>
                 <span className="profile-role-tagline">
-                lorem ipsum dolor sit amet, consectetur adip.
+                Non Progredi Est Regredi
                 </span>
             </span>
         </div>
